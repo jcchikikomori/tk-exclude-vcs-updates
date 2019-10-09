@@ -1,0 +1,20 @@
+{
+  "name": "jcchikikomori/tk-exclude-vcs-updates",
+  "description": "Exclude plugins whose folders contain a VCS directory from appearing in the list of updates.",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/jcchikikomori/tk-exclude-vcs-updates",
+  "authors": [
+    {
+      "name": "Clifford",
+      "homepage": "https://github.com/cliffordp"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
+
